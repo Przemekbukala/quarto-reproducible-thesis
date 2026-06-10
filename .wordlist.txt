@@ -1,5 +1,6 @@
 00693C
 1E1E1E
+BibLaTeX
 A71930
 figsize
 fontsize
@@ -343,3 +344,7 @@ pyproject
 setuptools
 toml
 whl
+wb
+Cfaerber
+Yug
+Inkscape
